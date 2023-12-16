@@ -2,9 +2,12 @@
  * @author rbk
  */
 // Change to your netid
-package sxa173731;
+package bxa220020;
 
 import java.util.Scanner;
+
+import bxa220020.Graph.Edge;
+import bxa220020.Graph.Vertex;
 
 // prints output only if size < 20 or details is true
 public class P4Driver {
